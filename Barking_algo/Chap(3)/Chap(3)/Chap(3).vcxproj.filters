@@ -15,10 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="chap2.cpp">
+    <ClCompile Include="Array_Insert_erase.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="2309.cpp">
+    <ClCompile Include="Vector%28ex%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="%28Re%2910808.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
