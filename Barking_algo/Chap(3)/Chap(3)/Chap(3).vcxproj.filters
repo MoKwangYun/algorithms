@@ -24,5 +24,14 @@
     <ClCompile Include="%28Re%2910808.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2577.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="%28Re%291475.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="(Re)3273.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
