@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 
 using namespace std;
-
+//이중for문을 사용하면 시간 초과!
 int main() {
 	ios::sync_with_stdio(0);
 	cin.tie(0);
@@ -23,7 +23,7 @@ int main() {
 	int l = 0;
 	int r = N - 1;
 
-
+	
 	while (1) {
 		if (l >= r)
 			break;
