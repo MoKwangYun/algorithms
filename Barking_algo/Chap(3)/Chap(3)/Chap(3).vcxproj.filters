@@ -39,7 +39,7 @@
     <ClCompile Include="%28Re%2913300.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="11328.cpp">
+    <ClCompile Include="array_getRealLength.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
